@@ -1,57 +1,47 @@
-<h1 align="center">Дмитрий Усов</h1>
+<div align="center">
 
-<p align="center">
-  <b>QA Engineer</b> • Manual Testing • API Testing • SQL • Web / Mobile
-</p>
+# Усов Дмитрий Владимирович
 
-<p align="center">
-  <a href="mailto:dmtryusovv@gmail.com">Email</a> •
-  <a href="https://t.me/dmtryusovv">Telegram</a> •
-  <a href="https://github.com/dmtryusovv">GitHub</a>
-</p>
+**QA Engineer**
+
+4 года опыта в тестировании web/mobile-приложений, REST API и backend-функциональности
+
+[Email](mailto:dmtryusovv@gmail.com) · [Telegram](https://t.me/dmtryusovv)
+
+</div>
 
 ---
 
 ## Обо мне
 
-QA Engineer с коммерческим опытом тестирования web/mobile приложений, backend-функциональности, REST API и клиент-серверных сценариев.
+QA Engineer с опытом тестирования web и mobile-приложений, REST API, backend-функциональности и клиент-серверной логики.
 
-Работаю с функциональным, регрессионным, smoke, sanity и e2e тестированием. Умею разбирать требования, проверять бизнес-логику, анализировать логи, валидировать данные через SQL и сопровождать дефекты до закрытия.
+Работаю с функциональным, регрессионным, smoke, sanity и e2e-тестированием. Проверяю продукт не только через интерфейс, но и глубже: через API, SQL-запросы, логи, очереди сообщений, метрики и техническую документацию.
 
-Имею технический бэкграунд: работал с серверными логами, SQL, Linux/WSL, Nginx/Apache, CMS, VDS/VPS и диагностикой технических проблем.
+Есть опыт работы в Agile/Scrum-командах, участия в релизных проверках, анализа требований, описания дефектов и взаимодействия с backend/frontend-разработчиками, аналитиками, дизайнерами и QA-командой.
+
+**Опыт работы:** 01tech · 100HP Games · SpaceWeb
 
 ---
 
 ## Основной стек
 
-<p>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Validation-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
+**Тестирование**
 
-<p>
-  <img src="https://img.shields.io/badge/Jira-Bug%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-Documentation-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-Monitoring-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graylog-Logs-FF3633?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RabbitMQ-Message%20Broker-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
+`Functional Testing` · `Regression Testing` · `Smoke Testing` · `Sanity Testing` · `E2E Testing`  
+`Web Testing` · `Mobile Testing` · `API Testing` · `Frontend / Backend Testing`  
+`Test Design` · `Bug Reporting` · `Client-Server Architecture`
+
+**Инструменты и технологии**
+
+`Postman` · `Swagger` · `REST API` · `SQL` · `PostgreSQL` · `MySQL` · `DBeaver`  
+`Jira` · `Confluence` · `GitLab CI` · `Grafana` · `Graylog` · `Lens`  
+`RabbitMQ` · `Charles Proxy` · `Linux / WSL` · `DevTools`
 
 ---
 
-## Что я тестирую
+<div align="center">
 
-```text
-Web applications
-Mobile applications
-REST API
-Backend functionality
-Frontend functionality
-Client-server interactions
-Business logic
-Integrations
-Message queues
-Release builds
+<sub>QA Engineer · Web / Mobile / API / Backend</sub>
+
+</div>
