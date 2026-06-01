@@ -13,7 +13,6 @@
 
 - **QA Engineer** в **01tech**
 - **QA Engineer** в **100HP Games**
-- **Technical Engineer** в **SpaceWeb**
 
 ## Основной стек
 
@@ -27,4 +26,3 @@
 ## Контакты
 
 - [Email](mailto:dmtryusovv@gmail.com)
-- [Telegram](https://t.me/dmtryusovv)
