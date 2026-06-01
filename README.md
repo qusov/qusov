@@ -1,13 +1,11 @@
-# 👋 
-
 QA Engineer с коммерческим опытом тестирования web/mobile приложений и backend-функциональности. Специализируюсь на API testing, SQL-валидации данных, анализе логов, диагностике дефектов и проверке интеграционных сценариев.
 
-## Опыт
+### Опыт
 
 - **01tech**
 - **100HP Games** 
 
-## Основной стек
+### Основной стек
 
 - **Testing:** Functional, Regression, Smoke, Sanity, E2E, API, Web, Mobile
 - **API:** Postman, Swagger, REST API, Charles Proxy
@@ -16,6 +14,6 @@ QA Engineer с коммерческим опытом тестирования we
 - **Tools:** Jira, Confluence, GitLab CI, DevTools
 - **Other:** RabbitMQ, Linux / WSL, CI/CD, Agile/Scrum
 
-## Контакты
+### Контакты
 
-- [Email](mailto:dmtryusovv@gmail.com)
+- Email: dmtryusovv@gmail.com
