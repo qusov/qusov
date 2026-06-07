@@ -8,7 +8,7 @@ QA Engineer с коммерческим опытом тестирования we
 ### Основной стек
 
 - **Testing:** Functional, Regression, Smoke, Sanity, E2E, API, Web, Mobile
-- **API:** Postman, Swagger, REST API, Charles Proxy
+- **API:** Postman, Swagger, REST SOAP API, Charles Proxy
 - **Database:** SQL, PostgreSQL, MySQL, DBeaver
 - **Logs & Monitoring:** Grafana, Graylog, Lens
 - **Tools:** Jira, Confluence, GitLab CI, DevTools
