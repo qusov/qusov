@@ -9,4 +9,4 @@
 - **Other:** RabbitMQ, Linux/WSL, Figma, Lighthouse, Agile/Scrum
 ## Contacts:
 - Email: info.dmtryusov@gmail.com
-- Telegram: [@byusov](https://t.me/byusov)
+- Telegram: [@usovdmtry](https://t.me/usovdmtry)
