@@ -1,4 +1,4 @@
-### QA Engineer with 5+ years of experience in testing 👋
+### QA Engineer with 3+ years of experience in testing 👋
 ## Stack:
 - **Testing:** Manual, Functional, Regression, Smoke, Sanity, E2E, API testing, Web, Mobile
 - **Test documentation:** Test cases, Checklists, Test plans, Test reports
